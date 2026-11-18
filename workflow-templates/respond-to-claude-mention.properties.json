@@ -1,0 +1,4 @@
+{
+  "name": "Respond to @claude mention",
+  "description": "Lets Claude respond when someone mentions @claude in the repository."
+}
